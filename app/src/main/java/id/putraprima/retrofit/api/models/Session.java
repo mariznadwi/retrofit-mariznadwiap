@@ -4,6 +4,7 @@ import android.content.Context;
 import android.content.SharedPreferences;
 import android.preference.PreferenceManager;
 
+
 public class Session {
     private static final String APP_KEY = "key_app";
     private static final String VERSION_KEY = "version_app";
